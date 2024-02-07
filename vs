@@ -24,7 +24,7 @@
         <p> By Morgan Krupp</p>
         <p> <ul style="list-style-type:square;">
             <li><a href="https://web-resume-mk.azurewebsites.net/ ">Resume</a></li>
-            <li><a href=" ">Dice Roller</a> </li>
+            <li><a href=" https://orange-sky-0dc078210.4.azurestaticapps.net/">Dice Roller</a> </li>
         
             </ul></p>
 
